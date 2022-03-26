@@ -1,3 +1,7 @@
 # UT-Office-Hours
 
-Test
+Future Ideas
+ - Next.js
+ - Email
+ - Create Instructor Page
+ - About
