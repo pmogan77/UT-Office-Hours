@@ -1,0 +1,21 @@
+nav {
+    background-color: #fff;
+    border-bottom: 1px solid #e5e5e5;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+}
+
+.navbar {
+    background-color: #f4511e;
+    overflow: hidden;
+}
+
+#home_img{
+    width: 100px;
+}
+
+button:hover{
+    background-color: #f4511e !important;
+}
