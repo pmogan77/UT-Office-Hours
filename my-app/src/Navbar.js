@@ -2,7 +2,7 @@ import React from "react";
 function Navbar() {
     return (
         <header id="header">
-        <a href="http://www.google.com"><img className="logo" src="../src/logo.png" alt="logo" /></a>
+        <a href="http://www.google.com"><img className="logo" src="https://i.imgur.com/br46Y6k.png" alt="logo" /></a>
         <nav>
           <ul className="nav__links">
             <li><a href="http://www.google.com">Home</a></li>

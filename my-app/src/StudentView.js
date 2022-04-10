@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import Block from "./Block.js";
+import "./StudentView.css";
 
 function StudentView() {
     const [students, setStudents] = useState([

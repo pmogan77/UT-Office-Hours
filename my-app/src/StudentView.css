@@ -1,6 +1,20 @@
+.studentView {
+    padding-top: 25px;
+    height: auto;
+    width: 40%;
+    border-radius: 10px;
+    background: rgb(235, 245, 255);
+    margin: auto;
+    margin-top: 25vh;
+}
+
 .block{
-    height: 300px;
-    width: 300px;
+    height: auto;
+    width: 90%;
+    padding: 10px;
+    border-radius: 15px;
     background: white;
     margin: auto;
+    text-align: center;
+    
 }
